@@ -1,4 +1,4 @@
-# Beyond Spatial Constraints: Adaptive Frequency Collaboration for Remote Sensing Change Detection
+# Beyond Spatial Constraint: Adaptive Frequency Collaboration for Remote Sensing Change Detection
 
 Feng Zhou, Xinyu Zhang, Hui Shuai, Renlong Hang, and Qingshan Liu
 
